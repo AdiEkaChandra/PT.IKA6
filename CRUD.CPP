@@ -11,6 +11,8 @@ struct Mahasiswa {
   double ipk;
 };
 
+
+
 // Fungsi untuk menampilkan menu pilihan
 void tampilkanMenu() {
   cout << "Pilih operasi yang ingin Anda lakukan:\n";
